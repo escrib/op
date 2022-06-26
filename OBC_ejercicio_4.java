@@ -13,6 +13,7 @@ public class numeroIf {
             System.out.println("cero");
         }
 
+        
         //while
         int numeroWhile = 0;
 
