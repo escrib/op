@@ -1,5 +1,5 @@
 
-public class If {
+public class numeroIf {
     public static void main(String args[]) {
       
 
